@@ -1,0 +1,13 @@
+{
+  "name": "sanya.js",
+  "version": "1.0.0",
+  "description": "This is new top-1 best back end server framework for node.js",
+  "main": "sanyasServer.js",
+  "scripts": {
+    "test": "nodemon test.js"
+  },
+  "author": "Sawska",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
